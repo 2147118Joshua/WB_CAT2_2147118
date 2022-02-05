@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHRIST>
+    <COMPUTER-SCIENCE>
+        <STU-NAME>Joshua</STU-NAME>
+        <STU-UNIVERSITY>christ</STU-UNIVERSITY>
+        <STU-PHONE>713341411</STU-PHONE>
+        <STU-EMAIL>joshua@mca.christuniversity.in</STU-EMAIL>
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+        <STU-NAME>Leo</STU-NAME>
+        <STU-UNIVERSITY>Josephs</STU-UNIVERSITY>
+        <STU-PHONE>713342341</STU-PHONE>
+        <STU-EMAIL>leo@gmail.com</STU-EMAIL>
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+        <STU-NAME>Mark</STU-NAME>
+        <STU-UNIVERSITY>Loyola</STU-UNIVERSITY>
+        <STU-PHONE>941341411</STU-PHONE>
+        <STU-EMAIL>Mark@yahoo.com</STU-EMAIL>
+    </COMPUTER-SCIENCE>
+
+    <COMPUTER-SCIENCE>
+        <STU-NAME>Beri</STU-NAME>
+        <STU-UNIVERSITY>Loyola</STU-UNIVERSITY>
+        <STU-PHONE>987341411</STU-PHONE>
+        <STU-EMAIL>Beri13@gmail.com</STU-EMAIL>
+    </COMPUTER-SCIENCE>
+
+</CHRIST>
